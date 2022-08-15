@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Web Tasarım Sitesi için yorumlar	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Yeni başlayanlar için Web Tasarım Rehberi</description>
+	<lastBuildDate>Tue, 12 Dec 2017 17:27:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.8</generator>
+	<item>
+		<title>
+		Eposta ayarlama nasıl yapılır yazısına Ertan Kayalar tarafından yapılan yorumlar		</title>
+		<link>/eposta-ayarlama-nasil-yapilir/#comment-935</link>
+
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Tue, 12 Dec 2017 17:27:58 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2177#comment-935</guid>
+
+					<description><![CDATA[&lt;a href=&quot;/eposta-ayarlama-nasil-yapilir/#comment-932&quot;&gt;Kenan&lt;/a&gt; yorumuna yanıt olarak.
+
+Sunucu yönetimi ile görüşmeniz gerekiyor.]]></description>
+			<content:encoded><![CDATA[<p><a href="/eposta-ayarlama-nasil-yapilir/#comment-932">Kenan</a> yorumuna yanıt olarak.</p>
+<p>Sunucu yönetimi ile görüşmeniz gerekiyor.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Eposta ayarlama nasıl yapılır yazısına Kenan tarafından yapılan yorumlar		</title>
+		<link>/eposta-ayarlama-nasil-yapilir/#comment-932</link>
+
+		<dc:creator><![CDATA[Kenan]]></dc:creator>
+		<pubDate>Tue, 12 Dec 2017 04:47:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2177#comment-932</guid>
+
+					<description><![CDATA[Sunucu şifresi değişti diye mesaj geliyor ama ben şifreyi bilmiyorum ne yapmam lazım]]></description>
+			<content:encoded><![CDATA[<p>Sunucu şifresi değişti diye mesaj geliyor ama ben şifreyi bilmiyorum ne yapmam lazım</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 17/34 objects using disk
+Page Caching using disk: enhanced (SSL caching disabled) 
+
+Served from: webtasarimsitesi.com @ 2022-08-15 14:14:47 by W3 Total Cache
+-->

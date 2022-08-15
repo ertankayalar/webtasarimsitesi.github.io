@@ -1,0 +1,175 @@
+/*
+ Theme Name:     Divi WTS
+ Theme URI:      
+ Description:    WTS Divi Child Theme
+ Author:         Ertan Kayalar
+ Author URI:     https://ertankayalar.com
+ Template:       Divi
+ Version:        1.0.14
+*/
+
+@import url("/wp-content/themes/Divi/style.css");
+
+/*
+    hr
+*/
+
+hr.hidden {
+    border: 0;
+    clear: both;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+hr {
+    border-top: 1px solid #fafafa;
+    clear: both;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+/*
+ yoast breadcrumb
+*/
+
+.ek-top-container {
+    position: relative;
+    background-color: #fafafa;
+    width: 100%;
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 34px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.ek-top-container .container {
+    margin: 0 auto;
+}
+
+#breadcrumbs {
+    float: left;
+    width: 75%;
+    margin-bottom: 1em;
+    position: relative;
+    z-index: 1;
+}
+
+@media screen and (max-width: 980px) {
+    #breadcrumbs {
+        width: 100%;
+    }
+}
+
+
+/* content */
+
+ul.table-of-contents,
+ul.table-of-contents ul>* {
+    list-style: none;
+    margin-left: 0;
+}
+
+
+/* ebook */
+
+.ebook-header {
+    border-bottom: 1px solid #efefef;
+    margin-bottom: 20px;
+    padding: 30px 20px;
+}
+
+.key-points {
+    background-color: #efefef;
+    padding: 20px 40px 10px 10px;
+    margin: 40px 30px;
+}
+
+@media only screen and ( min-width:981px) {
+    /* Set the slider height */
+    .et_pb_slider,
+    .et_pb_slider .et_pb_container {
+        height: 518px !important;
+    }
+    .et_pb_slider,
+    .et_pb_slider .et_pb_slide {
+        max-height: 518px;
+    }
+    .et_pb_slider .et_pb_slide_description {
+        position: relative;
+        top: 25%;
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+        height: auto !important;
+    }
+}
+
+
+/* Contact Form 7 */
+
+.wpcf7-form {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+
+.wpcf7-textarea,
+.wpcf7 input,
+.wpcf7-text {
+    padding: 3px 5px;
+}
+
+wpcf7 select,
+.wpcf7 textarea,
+.wpcf7 input[type="text"],
+.wpcf7 input[type="password"],
+.wpcf7 input[type="datetime"],
+.wpcf7 input[type="datetime-local"],
+.wpcf7 input[type="date"],
+.wpcf7 input[type="month"],
+.wpcf7 input[type="time"],
+.wpcf7 input[type="week"],
+.wpcf7 input[type="number"],
+.wpcf7 input[type="email"],
+.wpcf7 input[type="url"],
+.wpcf7 input[type="search"],
+.wpcf7 input[type="tel"],
+.wpcf7 input[type="color"] {
+    width: 100%;
+    padding: 0 0.65em;
+    border-radius: 4px;
+    display: inline-block;
+    height: 2.65em;
+    margin-bottom: 9px;
+    border: 1px solid #ddd;
+    padding: 0 0.65em;
+    font-size: 13px;
+    line-height: normal;
+    color: #333;
+    background-color: #fff;
+}
+
+.wpcf7 textarea {
+    height: auto !important;
+    line-height: 1.3;
+    padding: 0.65em !important;
+}
+
+.wpcf7-submit {
+    background: #e02b20;
+    color: #ffffff;
+    font-weight: bold;
+    width: 100px !important;
+    padding: 5px 10px !important;
+    height: 2.65em;
+    border: 1px solid #666;
+}
+
+
+/*** Responsive Styles Smartphone Portrait ***/
+
+@media all and (max-width: 479px) {
+    .ek-top-container {
+        padding-bottom: 25px;
+    }
+}

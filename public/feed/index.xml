@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Web Tasarım Sitesi</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Yeni başlayanlar için Web Tasarım Rehberi</description>
+	<lastBuildDate>Fri, 01 Mar 2019 08:30:16 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.8</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/05/cropped-wts-favicon-1-32x32.png</url>
+	<title>Web Tasarım Sitesi</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">43926507</site>	<item>
+		<title>Web sitelerinde mobil tasarım neden önemlidir?</title>
+		<link>/mobil-tasarim/</link>
+					<comments>/mobil-tasarim/#respond</comments>
+		
+		<dc:creator><![CDATA[Tülin Kayalar]]></dc:creator>
+		<pubDate>Thu, 07 Feb 2019 12:37:35 +0000</pubDate>
+				<category><![CDATA[Genel]]></category>
+		<guid isPermaLink="false">/?p=5190</guid>
+
+					<description><![CDATA[<p>Mobil tasarım nedir? Neden mobil web tasarımı tercih etmeli? Bu yazımda size mobil uyumlu web tasarımını nedir, şirketlerin çevrimiçi varlığı için neden önemlidir, ziyaretçilerinizi arttırmanıza nasıl yardımcı olur, sorularının cevaplarını vermeye çalışacağım. Mobil internet trafiği, masaüstü trafiğini geçti. Artık insanlar internette mobil cihazlar ile daha fazla zaman geçiriyor. Akıllı telefon satışlarının artışı da bunun en [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/mobil-tasarim/">Web sitelerinde mobil tasarım neden önemlidir?</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/mobil-tasarim/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5190</post-id>	</item>
+		<item>
+		<title>Web Tasarım Firmaları Araştırma ve Seçme Rehberi</title>
+		<link>/web-tasarim-firmalari/</link>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Wed, 30 Jan 2019 12:01:59 +0000</pubDate>
+				<category><![CDATA[Genel]]></category>
+		<guid isPermaLink="false">/?page_id=5098</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/web-tasarim-firmalari/">Web Tasarım Firmaları Araştırma ve Seçme Rehberi</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5098</post-id>	</item>
+		<item>
+		<title>WordPress Teması Nasıl Kurulur ?</title>
+		<link>/wordpress-temasi-nasil-kurulur/</link>
+					<comments>/wordpress-temasi-nasil-kurulur/#respond</comments>
+		
+		<dc:creator><![CDATA[Web Tasarım Sitesi]]></dc:creator>
+		<pubDate>Thu, 24 May 2018 12:59:53 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=4937</guid>
+
+					<description><![CDATA[<p>WordPress ile web sitenizi kurdunuz. Artık WordPress teması nasıl kurulur öğremek istiyorsunuz. WordPress teması nasıl kurulur bilmiyorsanız size adım adım yol göstereceğiz. </p>
+<p>The post <a rel="nofollow" href="/wordpress-temasi-nasil-kurulur/">WordPress Teması Nasıl Kurulur ?</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/wordpress-temasi-nasil-kurulur/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4937</post-id>	</item>
+		<item>
+		<title>WordPress Teması Seçerken Nelere Dikkat Etmeli ?</title>
+		<link>/wordpress-temasi-secmek/</link>
+					<comments>/wordpress-temasi-secmek/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Sun, 20 May 2018 15:29:06 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=4900</guid>
+
+					<description><![CDATA[<p>WordPress teması seçerken zorlanıyor musunuz ? Nasıl seçmeli, nelere dikkat etmeli ? Web siten için en iyi WordPress temasını nasıl seçeceğini bilmiyorsan endişe etmene gerek yok. Hangi temayı seçeceğinize karar vermeni kolaylaştıracak tavsiyeler hazırladık.</p>
+<p>The post <a rel="nofollow" href="/wordpress-temasi-secmek/">WordPress Teması Seçerken Nelere Dikkat Etmeli ?</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/wordpress-temasi-secmek/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4900</post-id>	</item>
+		<item>
+		<title>WordPress Eklentileri Hakkında Bilmeniz Gerekenler</title>
+		<link>/wordpress-eklentileri/</link>
+					<comments>/wordpress-eklentileri/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Sun, 20 May 2018 10:21:02 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=4875</guid>
+
+					<description><![CDATA[<p>Web sitenizi WordPress eklentileri ile doldurmadan önce karşılacağınız riskleri öğrenin. WP eklentileri sitenize faydalı fonksiyonlar eklerken sorunlara yol açabilir. Risklerden nasıl kaçınacağınızı ve almanız gereken tedbirleri öğrenin.</p>
+<p>The post <a rel="nofollow" href="/wordpress-eklentileri/">WordPress Eklentileri Hakkında Bilmeniz Gerekenler</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/wordpress-eklentileri/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4875</post-id>	</item>
+		<item>
+		<title>Web Tasarım Fiyatları Nasıl Değerlendirilmeli ?</title>
+		<link>/web-tasarim-fiyatlari/</link>
+					<comments>/web-tasarim-fiyatlari/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Thu, 14 Dec 2017 13:00:53 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<guid isPermaLink="false">/?p=4468</guid>
+
+					<description><![CDATA[<p>Web sitesine sahip olmak isterken fiyatlar konusunda kafanız mı karıştı ? Fiyatları nasıl değerlendirmeniz gerektiğini anlatıyoruz.</p>
+<p>The post <a rel="nofollow" href="/web-tasarim-fiyatlari/">Web Tasarım Fiyatları Nasıl Değerlendirilmeli ?</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/web-tasarim-fiyatlari/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4468</post-id>	</item>
+		<item>
+		<title>Eposta Şifre Hırsızlığına Dikkat</title>
+		<link>/eposta-sifre-hirsizligi/</link>
+					<comments>/eposta-sifre-hirsizligi/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Sat, 09 Dec 2017 12:32:51 +0000</pubDate>
+				<category><![CDATA[Genel]]></category>
+		<guid isPermaLink="false">/?p=4427</guid>
+
+					<description><![CDATA[<p>Son dönemde internet dolandırıcılarının şirketleri hedef olarak gerçekleştirdiği hırsızlık ve korunma yöntemini okuyabilirsiniz.</p>
+<p>The post <a rel="nofollow" href="/eposta-sifre-hirsizligi/">Eposta Şifre Hırsızlığına Dikkat</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/eposta-sifre-hirsizligi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4427</post-id>	</item>
+		<item>
+		<title>Ücretsiz WordPress Temaları</title>
+		<link>/ucretsiz-wordpress-temalari/</link>
+					<comments>/ucretsiz-wordpress-temalari/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Tue, 05 Dec 2017 08:40:13 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=4190</guid>
+
+					<description><![CDATA[<p>En iyi ücretsiz WordPress temalarını inceledik ve kullanım amaçlarına göre düzenlendik. Web sitenizi profesyonel ve etkileyici görünüme kavuşturacak temayı kolayca seçebilirsiniz.</p>
+<p>The post <a rel="nofollow" href="/ucretsiz-wordpress-temalari/">Ücretsiz WordPress Temaları</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/ucretsiz-wordpress-temalari/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4190</post-id>	</item>
+		<item>
+		<title>WordPress, Joomla ve Drupal Karşılaştırması</title>
+		<link>/wordpress-joomla-drupal/</link>
+					<comments>/wordpress-joomla-drupal/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Mon, 11 Sep 2017 14:25:31 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[drupal]]></category>
+		<category><![CDATA[joomla]]></category>
+		<category><![CDATA[karşılaştırma]]></category>
+		<guid isPermaLink="false">/?p=3527</guid>
+
+					<description><![CDATA[<p>Web siteniz için hangi yazılımı seçeceğinize karar veremediniz mi ? WordPress, Joomla ve Drupal karşılaştırmasını okuyarak kolayca karar verin.</p>
+<p>The post <a rel="nofollow" href="/wordpress-joomla-drupal/">WordPress, Joomla ve Drupal Karşılaştırması</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/wordpress-joomla-drupal/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3527</post-id>	</item>
+		<item>
+		<title>Alan Adı Seçimi Nasıl Yapılmalı ?</title>
+		<link>/alan-adi-secimi/</link>
+					<comments>/alan-adi-secimi/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Wed, 06 Sep 2017 12:39:54 +0000</pubDate>
+				<category><![CDATA[Web Hosting]]></category>
+		<guid isPermaLink="false">/?p=4001</guid>
+
+					<description><![CDATA[<p>Alan adı seçerken nelere dikkat etmeli biliyor musun ? Web sitenizin en kritik parçası alan adı seçiminde nelere dikkat etmeniz gerektiğini öğrenin.</p>
+<p>The post <a rel="nofollow" href="/alan-adi-secimi/">Alan Adı Seçimi Nasıl Yapılmalı ?</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/alan-adi-secimi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4001</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 80/97 objects using disk
+Page Caching using disk: enhanced (SSL caching disabled) 
+
+Served from: webtasarimsitesi.com @ 2022-08-15 14:14:46 by W3 Total Cache
+-->

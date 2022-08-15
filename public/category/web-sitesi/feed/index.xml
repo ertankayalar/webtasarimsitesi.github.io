@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Web Sitesi arşivleri - Web Tasarım Sitesi</title>
+	<atom:link href="/category/web-sitesi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Yeni başlayanlar için Web Tasarım Rehberi</description>
+	<lastBuildDate>Fri, 01 Mar 2019 08:38:20 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.8</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/05/cropped-wts-favicon-1-32x32.png</url>
+	<title>Web Sitesi arşivleri - Web Tasarım Sitesi</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">43926507</site>	<item>
+		<title>Web Tasarım Fiyatları Nasıl Değerlendirilmeli ?</title>
+		<link>/web-tasarim-fiyatlari/</link>
+					<comments>/web-tasarim-fiyatlari/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Thu, 14 Dec 2017 13:00:53 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<guid isPermaLink="false">/?p=4468</guid>
+
+					<description><![CDATA[<p>Web sitesine sahip olmak isterken fiyatlar konusunda kafanız mı karıştı ? Fiyatları nasıl değerlendirmeniz gerektiğini anlatıyoruz.</p>
+<p>The post <a rel="nofollow" href="/web-tasarim-fiyatlari/">Web Tasarım Fiyatları Nasıl Değerlendirilmeli ?</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/web-tasarim-fiyatlari/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4468</post-id>	</item>
+		<item>
+		<title>Ücretsiz WordPress Temaları</title>
+		<link>/ucretsiz-wordpress-temalari/</link>
+					<comments>/ucretsiz-wordpress-temalari/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Tue, 05 Dec 2017 08:40:13 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=4190</guid>
+
+					<description><![CDATA[<p>En iyi ücretsiz WordPress temalarını inceledik ve kullanım amaçlarına göre düzenlendik. Web sitenizi profesyonel ve etkileyici görünüme kavuşturacak temayı kolayca seçebilirsiniz.</p>
+<p>The post <a rel="nofollow" href="/ucretsiz-wordpress-temalari/">Ücretsiz WordPress Temaları</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/ucretsiz-wordpress-temalari/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4190</post-id>	</item>
+		<item>
+		<title>WordPress, Joomla ve Drupal Karşılaştırması</title>
+		<link>/wordpress-joomla-drupal/</link>
+					<comments>/wordpress-joomla-drupal/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Mon, 11 Sep 2017 14:25:31 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[drupal]]></category>
+		<category><![CDATA[joomla]]></category>
+		<category><![CDATA[karşılaştırma]]></category>
+		<guid isPermaLink="false">/?p=3527</guid>
+
+					<description><![CDATA[<p>Web siteniz için hangi yazılımı seçeceğinize karar veremediniz mi ? WordPress, Joomla ve Drupal karşılaştırmasını okuyarak kolayca karar verin.</p>
+<p>The post <a rel="nofollow" href="/wordpress-joomla-drupal/">WordPress, Joomla ve Drupal Karşılaştırması</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/wordpress-joomla-drupal/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3527</post-id>	</item>
+		<item>
+		<title>Web tasarım ajansı ararken herkesin düştüğü 6 hata</title>
+		<link>/web-tasarim-ajansi/</link>
+					<comments>/web-tasarim-ajansi/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Tue, 01 Aug 2017 11:17:14 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<guid isPermaLink="false">/?p=3478</guid>
+
+					<description><![CDATA[<p>Bir web sitesi yaptırmak için araştırma yapmaya başladığımızda olabildiğince en ucuz çözüme odaklanırız. Bazen, ucuz web tasarım paketlerinden harika sonuçlar elde etmek mümkün olsa da kaçınmamız gereken bazı tuzaklar vardır. Web tasarım ajansı ararken, bu tuzaklara düşmeden size en iyi projeyi geliştirecek doğru ajansını seçebilirsiniz. Web sitesini ucuza getirmeyi düşünebilirsin. Ancak, gerçekten kalite arıyorsan, web [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/web-tasarim-ajansi/">Web tasarım ajansı ararken herkesin düştüğü 6 hata</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/web-tasarim-ajansi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3478</post-id>	</item>
+		<item>
+		<title>Hazır tasarımlarla kişisel web sitesinizi hazırlayın</title>
+		<link>/kisisel-web-sitesi/</link>
+					<comments>/kisisel-web-sitesi/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Thu, 27 Apr 2017 07:50:13 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<guid isPermaLink="false">/?p=3420</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/kisisel-web-sitesi/">Hazır tasarımlarla kişisel web sitesinizi hazırlayın</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/kisisel-web-sitesi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3420</post-id>	</item>
+		<item>
+		<title>Kurumsal Web Tasarımı konusunda dikkat etmeniz gerekenler</title>
+		<link>/kurumsal-web-tasarim/</link>
+					<comments>/kurumsal-web-tasarim/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Thu, 29 Dec 2016 07:52:46 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<guid isPermaLink="false">/?p=2949</guid>
+
+					<description><![CDATA[<p>İnternet her gün yeni iş fırsatlarının ortaya çıktığı büyük bir ekonomi. Bazı şirketler bu ekonominin fırsatlarından yararlanırken, bazı şirketler ise fırsatların çok uzağında, görünür-görünmez bir imaj sergiliyorlar. Bu tür şirketler, web sitelerini birbirlerine bakarak hazırlamış gibi görünen, birbirine benzer içerikler ve hatalarla dolu web siteleri ile işlerine devam etmeye çalışıyorlar. Kurumsal web tasarım hemen her [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/kurumsal-web-tasarim/">Kurumsal Web Tasarımı konusunda dikkat etmeniz gerekenler</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/kurumsal-web-tasarim/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2949</post-id>	</item>
+		<item>
+		<title>Profesyonel Web Tasarım nasıl hazırlanır ?</title>
+		<link>/profesyonel-web-tasarim/</link>
+					<comments>/profesyonel-web-tasarim/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Wed, 30 Nov 2016 10:44:35 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<guid isPermaLink="false">/?p=2850</guid>
+
+					<description><![CDATA[<p>Bugünün iş dünyasında başarılı şirketlerin ortak noktası profesyonel web tasarım ile ilk seferde pozitif etki yaratmalarıdır. İlk anda profesyonellik ve güvenilirlik etkisini yaratır. Sonuç olarak ziyaretçi web sitesinden şirketin doğru seçim olduğuna güvenerek müşteri olarak ayrılır. Web tasarım işinde uzun yıllardır çalışıyorum. En çok aceleyle doldurulmuş, bazıları yarım kalmış web siteleri ile sık sık karşılaşırım. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/profesyonel-web-tasarim/">Profesyonel Web Tasarım nasıl hazırlanır ?</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/profesyonel-web-tasarim/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2850</post-id>	</item>
+		<item>
+		<title>WordPress Web Tasarım Seçeneklerinizi Keşfedin</title>
+		<link>/wordpress-web-tasarim-seceneklerinizi-kesfedin/</link>
+					<comments>/wordpress-web-tasarim-seceneklerinizi-kesfedin/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2016 09:48:53 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=2268</guid>
+
+					<description><![CDATA[<p>Herkes web sitesinin daha güzel görünmesini ister. İşin içine girince yönetimin de daha kolay olmasını, maliyetin daha düşük olmasını vs. vs. Etkileyici görünüm için WordPress web tasarım çalışmaları yaparken gözönünde bulundurmanız gereken noktalar var. Web sitesindeki amacınız ne olursa olsun, doğru bilgilere sahip olarak hedeflerinize ulaşmak için daha çok şansınız olacak. WordPress&#8217;in en sevdiğim özellikleriden [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/wordpress-web-tasarim-seceneklerinizi-kesfedin/">WordPress Web Tasarım Seçeneklerinizi Keşfedin</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/wordpress-web-tasarim-seceneklerinizi-kesfedin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2268</post-id>	</item>
+		<item>
+		<title>Web sitesi yaptırmak istiyorum diyenlere önemli tavsiyeler</title>
+		<link>/web-sitesi-yaptirmak-istiyorum/</link>
+					<comments>/web-sitesi-yaptirmak-istiyorum/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Thu, 03 Mar 2016 17:09:38 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<guid isPermaLink="false">/?p=168</guid>
+
+					<description><![CDATA[<p>Neredeyse 14 yıldır aynı cümleyle başlıyor işimiz; web sitesi yaptırmak istiyorum. Ancak, arkasından gelen bir kelime var ki o da projenin nasıl olacağını bize anlatır; “web sitesi yaptırmak istiyorum, ama&#8230;”. Ama ile başlayan istekler gerçekçi de olabilir, olmayabilir de. Sorun isteklerin yapılabilirliğinden ziyade, oluşan beklentilerde yatıyor. Holywood filmleri tarafından internet ortamında herşeyin kolay olduğuna inandırıldığımızdan, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/web-sitesi-yaptirmak-istiyorum/">Web sitesi yaptırmak istiyorum diyenlere önemli tavsiyeler</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/web-sitesi-yaptirmak-istiyorum/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">168</post-id>	</item>
+		<item>
+		<title>Neden WordPress Kullanmalısınız</title>
+		<link>/neden-wordpress/</link>
+					<comments>/neden-wordpress/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2012 08:59:00 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=2260</guid>
+
+					<description><![CDATA[<p>Biz Web Tasarım Sitesi’nde yıllardır WordPress kullanıyoruz. Müşterilerimiz bize Neden WordPress Kullanmalıyız sorusunu yönelttiklerinde onlara aşağıdaki avantajlarını anlatıyoruz. Kullanımı kolaydır Başlangıçta bahsettiğim gibi kullanımı kolaydır. WTS olarak daha önce pek çok yazılım kullanmayı denedik. Edindiğimiz deneyimler sonucunda en etkili sonucu WordPress ile aldık. Eğitim gerektirmeden kullanmaya başlayabilirsiniz. Detayları kullanırken öğrenebiliyorsunuz. Web sitenize resim veya video [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/neden-wordpress/">Neden WordPress Kullanmalısınız</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/neden-wordpress/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2260</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 118/141 objects using disk
+Page Caching using disk: enhanced (SSL caching disabled) 
+
+Served from: webtasarimsitesi.com @ 2022-08-15 14:16:08 by W3 Total Cache
+-->

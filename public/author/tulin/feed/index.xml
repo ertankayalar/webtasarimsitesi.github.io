@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Tülin Kayalar, Yazar: Web Tasarım Sitesi</title>
+	<atom:link href="/author/tulin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Yeni başlayanlar için Web Tasarım Rehberi</description>
+	<lastBuildDate>Thu, 07 Feb 2019 12:46:58 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.8</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/05/cropped-wts-favicon-1-32x32.png</url>
+	<title>Tülin Kayalar, Yazar: Web Tasarım Sitesi</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">43926507</site>	<item>
+		<title>Web sitelerinde mobil tasarım neden önemlidir?</title>
+		<link>/mobil-tasarim/</link>
+					<comments>/mobil-tasarim/#respond</comments>
+		
+		<dc:creator><![CDATA[Tülin Kayalar]]></dc:creator>
+		<pubDate>Thu, 07 Feb 2019 12:37:35 +0000</pubDate>
+				<category><![CDATA[Genel]]></category>
+		<guid isPermaLink="false">/?p=5190</guid>
+
+					<description><![CDATA[<p>Mobil tasarım nedir? Neden mobil web tasarımı tercih etmeli? Bu yazımda size mobil uyumlu web tasarımını nedir, şirketlerin çevrimiçi varlığı için neden önemlidir, ziyaretçilerinizi arttırmanıza nasıl yardımcı olur, sorularının cevaplarını vermeye çalışacağım. Mobil internet trafiği, masaüstü trafiğini geçti. Artık insanlar internette mobil cihazlar ile daha fazla zaman geçiriyor. Akıllı telefon satışlarının artışı da bunun en [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/mobil-tasarim/">Web sitelerinde mobil tasarım neden önemlidir?</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/mobil-tasarim/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5190</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 36/39 objects using disk
+Page Caching using disk: enhanced (SSL caching disabled) 
+
+Served from: webtasarimsitesi.com @ 2022-08-15 14:15:32 by W3 Total Cache
+-->

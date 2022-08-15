@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>WordPress Makaleleri - Püf Noktaları - Tavsiyeler - Web Tasarım Sitesi</title>
+	<atom:link href="/category/wp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Yeni başlayanlar için Web Tasarım Rehberi</description>
+	<lastBuildDate>Fri, 01 Mar 2019 08:38:20 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.8</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/05/cropped-wts-favicon-1-32x32.png</url>
+	<title>WordPress Makaleleri - Püf Noktaları - Tavsiyeler - Web Tasarım Sitesi</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">43926507</site>	<item>
+		<title>WordPress Teması Nasıl Kurulur ?</title>
+		<link>/wordpress-temasi-nasil-kurulur/</link>
+					<comments>/wordpress-temasi-nasil-kurulur/#respond</comments>
+		
+		<dc:creator><![CDATA[Web Tasarım Sitesi]]></dc:creator>
+		<pubDate>Thu, 24 May 2018 12:59:53 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=4937</guid>
+
+					<description><![CDATA[<p>WordPress ile web sitenizi kurdunuz. Artık WordPress teması nasıl kurulur öğremek istiyorsunuz. WordPress teması nasıl kurulur bilmiyorsanız size adım adım yol göstereceğiz. </p>
+<p>The post <a rel="nofollow" href="/wordpress-temasi-nasil-kurulur/">WordPress Teması Nasıl Kurulur ?</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/wordpress-temasi-nasil-kurulur/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4937</post-id>	</item>
+		<item>
+		<title>WordPress Teması Seçerken Nelere Dikkat Etmeli ?</title>
+		<link>/wordpress-temasi-secmek/</link>
+					<comments>/wordpress-temasi-secmek/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Sun, 20 May 2018 15:29:06 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=4900</guid>
+
+					<description><![CDATA[<p>WordPress teması seçerken zorlanıyor musunuz ? Nasıl seçmeli, nelere dikkat etmeli ? Web siten için en iyi WordPress temasını nasıl seçeceğini bilmiyorsan endişe etmene gerek yok. Hangi temayı seçeceğinize karar vermeni kolaylaştıracak tavsiyeler hazırladık.</p>
+<p>The post <a rel="nofollow" href="/wordpress-temasi-secmek/">WordPress Teması Seçerken Nelere Dikkat Etmeli ?</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/wordpress-temasi-secmek/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4900</post-id>	</item>
+		<item>
+		<title>WordPress Eklentileri Hakkında Bilmeniz Gerekenler</title>
+		<link>/wordpress-eklentileri/</link>
+					<comments>/wordpress-eklentileri/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Sun, 20 May 2018 10:21:02 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=4875</guid>
+
+					<description><![CDATA[<p>Web sitenizi WordPress eklentileri ile doldurmadan önce karşılacağınız riskleri öğrenin. WP eklentileri sitenize faydalı fonksiyonlar eklerken sorunlara yol açabilir. Risklerden nasıl kaçınacağınızı ve almanız gereken tedbirleri öğrenin.</p>
+<p>The post <a rel="nofollow" href="/wordpress-eklentileri/">WordPress Eklentileri Hakkında Bilmeniz Gerekenler</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/wordpress-eklentileri/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4875</post-id>	</item>
+		<item>
+		<title>Ücretsiz WordPress Temaları</title>
+		<link>/ucretsiz-wordpress-temalari/</link>
+					<comments>/ucretsiz-wordpress-temalari/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Tue, 05 Dec 2017 08:40:13 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=4190</guid>
+
+					<description><![CDATA[<p>En iyi ücretsiz WordPress temalarını inceledik ve kullanım amaçlarına göre düzenlendik. Web sitenizi profesyonel ve etkileyici görünüme kavuşturacak temayı kolayca seçebilirsiniz.</p>
+<p>The post <a rel="nofollow" href="/ucretsiz-wordpress-temalari/">Ücretsiz WordPress Temaları</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/ucretsiz-wordpress-temalari/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4190</post-id>	</item>
+		<item>
+		<title>WordPress, Joomla ve Drupal Karşılaştırması</title>
+		<link>/wordpress-joomla-drupal/</link>
+					<comments>/wordpress-joomla-drupal/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Mon, 11 Sep 2017 14:25:31 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[drupal]]></category>
+		<category><![CDATA[joomla]]></category>
+		<category><![CDATA[karşılaştırma]]></category>
+		<guid isPermaLink="false">/?p=3527</guid>
+
+					<description><![CDATA[<p>Web siteniz için hangi yazılımı seçeceğinize karar veremediniz mi ? WordPress, Joomla ve Drupal karşılaştırmasını okuyarak kolayca karar verin.</p>
+<p>The post <a rel="nofollow" href="/wordpress-joomla-drupal/">WordPress, Joomla ve Drupal Karşılaştırması</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/wordpress-joomla-drupal/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3527</post-id>	</item>
+		<item>
+		<title>Neden WordPress Kullanmalısınız</title>
+		<link>/neden-wordpress/</link>
+					<comments>/neden-wordpress/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2012 08:59:00 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=2260</guid>
+
+					<description><![CDATA[<p>Biz Web Tasarım Sitesi’nde yıllardır WordPress kullanıyoruz. Müşterilerimiz bize Neden WordPress Kullanmalıyız sorusunu yönelttiklerinde onlara aşağıdaki avantajlarını anlatıyoruz. Kullanımı kolaydır Başlangıçta bahsettiğim gibi kullanımı kolaydır. WTS olarak daha önce pek çok yazılım kullanmayı denedik. Edindiğimiz deneyimler sonucunda en etkili sonucu WordPress ile aldık. Eğitim gerektirmeden kullanmaya başlayabilirsiniz. Detayları kullanırken öğrenebiliyorsunuz. Web sitenize resim veya video [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/neden-wordpress/">Neden WordPress Kullanmalısınız</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/neden-wordpress/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2260</post-id>	</item>
+		<item>
+		<title>WordPress.com ve WordPress.org Arasındaki Fark Nedir ?</title>
+		<link>/wordpress-com-wordpress-org-arasindaki-fark-nedir/</link>
+					<comments>/wordpress-com-wordpress-org-arasindaki-fark-nedir/#respond</comments>
+		
+		<dc:creator><![CDATA[Ertan Kayalar]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2012 08:41:13 +0000</pubDate>
+				<category><![CDATA[Web Sitesi]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=2252</guid>
+
+					<description><![CDATA[<p>WordPress yazılımının iki farklı türde kullanabilmek için iki farklı platform oluşturulmuştur. Hangi platformun size uygun olduğunu bu bölümü okuduktan sonra karar verebilirsiniz. &#60; h2 class=&#8221;h3&#8243;>WordPress.com: Ücretsiz WordPress Hosting Platformu Bunlar güzel haberler. Birinci dezavantajı, PHP kodunuzu değiştirmenize izin verilmez. Herhangi bir eklenti yükleyemezsiniz. 19 binden fazla eklenti wordpress.org’da bulunmaktadır. wordpress.com ekranı Son olarak, mevcut wordpress [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/wordpress-com-wordpress-org-arasindaki-fark-nedir/">WordPress.com ve WordPress.org Arasındaki Fark Nedir ?</a> appeared first on <a rel="nofollow" href="/">Web Tasarım Sitesi</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/wordpress-com-wordpress-org-arasindaki-fark-nedir/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2252</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 75/78 objects using disk
+Page Caching using disk: enhanced (SSL caching disabled) 
+
+Served from: webtasarimsitesi.com @ 2022-08-15 14:15:50 by W3 Total Cache
+-->
